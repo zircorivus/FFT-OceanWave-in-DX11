@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c ' *)",
+      "Bash(where fxc *)",
+      "Bash(dir \"C:\\\\Program Files \\(x86\\)\\\\Windows Kits\\\\10\\\\bin\\\\*\\\\x64\\\\fxc.exe\")",
+      "Bash(grep -n \"---- [0-9]\" OceanEffect.cpp)"
+    ]
+  }
+}
